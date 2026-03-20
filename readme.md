@@ -1,6 +1,6 @@
 # Welcome to the source code of `yaqinhasan.com`
 
-This is the current repository for the source code for `yaqinhasan.com.`
+This is the current repository for the source code for `yaqinhasan.com`
 The previous repository containing abandoned approaches and alpha versions has been made private and deprecated to avoid confusion. 
 
 # CSS Tree
